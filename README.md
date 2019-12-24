@@ -7,6 +7,8 @@ plz see code.
 
 https://github.com/QueenieCplusplus/Optimization/blob/master/memory.md
 
+https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md#cache-快取
+
 
 運算器分配時脈
 
