@@ -15,6 +15,8 @@ https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
 
 https://github.com/QueenieCplusplus/Optimization/blob/master/thread.md
 
+https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
+
 
 
 
