@@ -16,12 +16,15 @@ https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
 
 平行執行
 
+https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md
 
 共用資源
 
 https://github.com/QueenieCplusplus/Optimization/blob/master/share_memory.md
 
 https://github.com/QueenieCplusplus/Golang/blob/master/sig.md
+
+
 
 
 
