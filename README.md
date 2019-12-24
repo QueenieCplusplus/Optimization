@@ -3,7 +3,9 @@
 
 plz see code.
 
-記憶體資源
+動態記憶體資源 
+
+                chunk list in Bin / Chunk / run / Page / Region
 
 https://github.com/QueenieCplusplus/Optimization/blob/master/memory.md (指標緩衝、動態配置虛擬記憶體)
 
