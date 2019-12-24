@@ -5,7 +5,7 @@ plz see code.
 
 記憶體資源
 
-https://github.com/QueenieCplusplus/Optimization/blob/master/memory.md
+https://github.com/QueenieCplusplus/Optimization/blob/master/memory.md (指標緩衝、動態配置虛擬記憶體)
 
 https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md#cache-快取
 
