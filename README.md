@@ -16,6 +16,19 @@ https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md#cache-快取
 
 運算器分配時脈
 
+                         Process idle
+
+                        Process running
+
+                           System call
+                           
+                           /    |    \
+                          /     |     \
+                          
+     Process Routine Stop ....
+
+                           Process Dead
+
 https://github.com/QueenieCplusplus/Optimization/blob/master/thread.md
 
 https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md 
