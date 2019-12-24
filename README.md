@@ -14,11 +14,11 @@ https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md#cache-快取
 
 https://github.com/QueenieCplusplus/Optimization/blob/master/thread.md
 
-https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md
+https://github.com/QueenieCplusplus/Golang/blob/master/MultiThread.md 
 
 平行執行
 
-https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md
+https://github.com/QueenieCplusplus/Golang/blob/master/Parallel.md (有序無序交替執行)
 
 共用資源
 
